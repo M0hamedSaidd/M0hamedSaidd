@@ -19,7 +19,6 @@
 ### 👨‍💻 About Me & My Work
 
 <div align="center">
-  <table>
     <tr>
       <td width="60%" valign="middle">
         <h4>🎓 <b>Education:</b> Pursuing a B.Sc. in Computer Science and Statistics at Alexandria University.</h4>
@@ -32,7 +31,6 @@
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Developer Coding GIF" width="95%" />
       </td>
     </tr>
-  </table>
 </div>
 
 ---
