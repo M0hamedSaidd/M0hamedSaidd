@@ -1,42 +1,51 @@
-<h1 align="center">Hi there, I'm Mohamed Said 👋</h1>
-<h3 align="center">🎨 UI/UX Designer | 📱 Flutter Developer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=250&section=header&text=Mohamed%20Said&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Bridging%20Design%20&%20Development&descAlignY=60&descSize=25&fontColor=ffffff" alt="Header Banner" />
+</div>
 
-<p align="center">
-  I seamlessly bridge the gap between design and development. Passionate about crafting intuitive, user-centric digital experiences and translating pixel-perfect designs into responsive, high-performance mobile applications using Flutter and Dart.
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=435&lines=UI%2FUX+Designer;Flutter+Developer;Creative+Problem+Solver;Building+Cross-Platform+Apps" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <p>I seamlessly bridge the gap between design and development. Passionate about crafting intuitive, user-centric digital experiences and translating pixel-perfect designs into responsive, high-performance mobile applications using Flutter and Dart.</p>
+</div>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Pursuing a **B.Sc. in Computer Science and Statistics** at Alexandria University.
-- 🖌️ Proficient in end-to-end design workflows: from wireframing and prototyping (Figma) to vector graphics (Adobe Illustrator).
-- 🚀 Specialized in building cross-platform apps with **Flutter & Dart** (Provider, BLoC, REST APIs).
-- 🤝 Experienced in collaborating within multi-disciplinary teams (UI/UX, Backend, Security, Data).
-- 📫 How to reach me: **[eng.mohamedsaidd@gmail.com](mailto:eng.mohamedsaidd@gmail.com)**
+### 👨‍💻 About Me & My Work
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%">
+        <ul>
+          <li>🎓 Pursuing a <b>B.Sc. in Computer Science and Statistics</b> at Alexandria University.</li>
+          <li>🖌️ Proficient in end-to-end design workflows: from wireframing (<b>Figma</b>) to vector graphics (<b>Illustrator</b>).</li>
+          <li>🚀 Specialized in building cross-platform apps with <b>Flutter & Dart</b>.</li>
+          <li>🤝 Experienced in collaborating within multi-disciplinary tech teams (UI/UX, Backend, Security, Data).</li>
+          <li>📫 Reach me at: <b><a href="mailto:eng.mohamedsaidd@gmail.com">eng.mohamedsaidd@gmail.com</a></b></li>
+        </ul>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Developer Coding GIF" width="90%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Design & Prototyping**
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" />
-</p>
-
-**Mobile Development**
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-</p>
-
-**Languages & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,illustrator,flutter,dart,py,java,git,vscode&perline=8" alt="Skill Icons" />
+  </a>
+</div>
 
 ---
 
@@ -56,19 +65,21 @@
 
 ---
 
-### 🌐 Let's Connect
+### 📈 GitHub Stats & Streak
 
-<p align="left">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M0hamedSaidd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M0hamedSaidd&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
+
+---
+
+<div align="center">
+  <b>Let's Connect</b><br><br>
   <a href="https://linkedin.com/in/mohamed-said-256748371" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:eng.mohamedsaidd@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M0hamedSaidd&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+</div>
