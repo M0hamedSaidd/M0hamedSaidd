@@ -27,7 +27,7 @@
         <h4>🤝 <b>Teamwork:</b> Experienced in collaborating within multi-disciplinary tech teams.</h4>
         <h4>📫 <b>Contact:</b> <a href="mailto:eng.mohamedsaidd@gmail.com">eng.mohamedsaidd@gmail.com</a></h4>
       </td>
-      <td width="40%" align="center" valign="middle">
+      <td width="40%">
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Developer Coding GIF" width="95%" />
       </td>
     </tr>
