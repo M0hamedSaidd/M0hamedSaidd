@@ -11,21 +11,25 @@
 <br/>
 
 <div align="center">
-  <h3>I seamlessly bridge the gap between design and development.<br>
-  <i>Passionate about crafting intuitive, user-centric digital experiences and translating pixel-perfect designs into responsive, high-performance mobile applications using Flutter and Dart.</i></h3>
+  I seamlessly bridge the gap between design and development.<br>
+  <i>Passionate about crafting intuitive, user-centric digital experiences and translating pixel-perfect designs into responsive, high-performance mobile applications using Flutter and Dart.</i>
 </div>
 
 <br/>
 
+---
+
+<h2 align="center">👨‍💻 About Me & My Work</h2>
+
 <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Developer Coding GIF" width="280" />
 
-## 👨‍💻 About Me & My Work
-
-> 🎓 **Education:** Pursuing a B.Sc. in Computer Science & Statistics at Alexandria University.  
-> 🖌️ **Design:** Proficient in end-to-end design workflows (**Figma** & **Adobe Illustrator**).  
-> 🚀 **Development:** Specialized in building robust cross-platform apps with **Flutter & Dart**.  
-> 🤝 **Teamwork:** Experienced in collaborating seamlessly within multi-disciplinary tech teams.  
-> 📫 **Contact:** [eng.mohamedsaidd@gmail.com](mailto:eng.mohamedsaidd@gmail.com)
+<ul>
+  <li>🎓 Education: Pursuing a B.Sc. in Computer Science & Statistics at Alexandria University.</li>
+  <li>🖌️ Design: Proficient in end-to-end design workflows (Figma & Adobe Illustrator).</li>
+  <li>🚀 Development: Specialized in building robust cross-platform apps with Flutter & Dart.</li>
+  <li>🤝 Teamwork: Experienced in collaborating seamlessly within multi-disciplinary tech teams.</li>
+  <li>📫 Contact: <a href="mailto:eng.mohamedsaidd@gmail.com">eng.mohamedsaidd@gmail.com</a></li>
+</ul>
 
 <br clear="both">
 
@@ -45,28 +49,23 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<table align="center" width="100%" style="border: none;">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍽️ <a href="https://github.com/M0hamedSaidd/Restaurant_System">Restaurant Management</a></h3>
-      <p><i>An intuitive UI/UX for seamless food ordering and management, featuring robust state management and smooth navigation.</i></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/M0hamedSaidd/FlappyBird">Flappy Bird Clone</a></h3>
-      <p><i>Mobile game clone with engaging user interfaces, custom animations, collision detection, and dynamic UI rendering.</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚚 Logistics & Fleet App</h3>
-      <p><i>A comprehensive mobile app for managing shipping logistics and real-time fleet tracking via GPS hardware integration.</i></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 Read Trade Hub</h3>
-      <p><i>A book-swapping platform built by translating iterative Figma wireframes into a pixel-perfect, responsive Flutter interface.</i></p>
-    </td>
-  </tr>
-</table>
+<h3>🍽️ <a href="https://github.com/M0hamedSaidd/Restaurant_System">Restaurant Management</a></h3>
+<i>An intuitive UI/UX for seamless food ordering and management, featuring robust state management and smooth navigation.</i>
+
+<br/><br/>
+
+<h3>🎮 <a href="https://github.com/M0hamedSaidd/FlappyBird">Flappy Bird Clone</a></h3>
+<i>Mobile game clone with engaging user interfaces, custom animations, collision detection, and dynamic UI rendering.</i>
+
+<br/><br/>
+
+<h3>🚚 Logistics & Fleet App</h3>
+<i>A comprehensive mobile app for managing shipping logistics and real-time fleet tracking via GPS hardware integration.</i>
+
+<br/><br/>
+
+<h3>📚 Read Trade Hub</h3>
+<i>A book-swapping platform built by translating iterative Figma wireframes into a pixel-perfect, responsive Flutter interface.</i>
 
 <br/>
 
