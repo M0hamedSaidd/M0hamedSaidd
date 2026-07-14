@@ -1,4 +1,6 @@
-<div align="center">
+import os
+
+readme_content = """<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=250&section=header&text=Mohamed%20Said&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Bridging%20Design%20&%20Development&descAlignY=60&descSize=25&fontColor=ffffff" alt="Header Banner" width="100%" />
 </div>
 
@@ -21,6 +23,7 @@
 
 ### 👨‍💻 About Me & My Work
 
+<img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Developer Coding GIF" width="350" style="margin-left: 20px;" />
 
 <h4>🎓 <b>Education:</b> Pursuing a B.Sc. in Computer Science & Statistics at Alexandria University.</h4>
 
@@ -50,19 +53,27 @@
 
 ### 🚀 Featured Projects
 
-*   🍽️ **[Restaurant Management System](https://github.com/M0hamedSaidd/Restaurant_System)**
-    *An intuitive UI/UX for seamless food ordering and management, featuring robust state management and smooth navigation.*
+<br>
 
-*   🎮 **[Flappy Bird Game Clone](https://github.com/M0hamedSaidd/FlappyBird)**
-    *Mobile game clone with engaging user interfaces, custom animations, collision detection, and dynamic UI rendering.*
+<h3>🍽️ <a href="https://github.com/M0hamedSaidd/Restaurant_System">Restaurant Management System</a></h3>
+<h4><i>An intuitive UI/UX for seamless food ordering and management, featuring robust state management and smooth navigation.</i></h4>
 
-*   🚚 **Logistics & Fleet Management App**
-    *A comprehensive mobile app for managing shipping logistics and real-time fleet tracking via GPS hardware integration.*
+<br>
 
-*   📚 **Read Trade Hub**
-    *A book-swapping platform built by translating iterative Figma wireframes into a pixel-perfect, responsive Flutter interface.*
+<h3>🎮 <a href="https://github.com/M0hamedSaidd/FlappyBird">Flappy Bird Game Clone</a></h3>
+<h4><i>Mobile game clone with engaging user interfaces, custom animations, collision detection, and dynamic UI rendering.</i></h4>
 
-<br/>
+<br>
+
+<h3>🚚 Logistics & Fleet Management App</h3>
+<h4><i>A comprehensive mobile app for managing shipping logistics and real-time fleet tracking via GPS hardware integration.</i></h4>
+
+<br>
+
+<h3>📚 Read Trade Hub</h3>
+<h4><i>A book-swapping platform built by translating iterative Figma wireframes into a pixel-perfect, responsive Flutter interface.</i></h4>
+
+<br>
 
 ---
 
@@ -86,3 +97,9 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+"""
+
+with open('README_Large_Projects.md', 'w', encoding='utf-8') as f:
+    f.write(readme_content)
+
+print("README_Large_Projects.md")
