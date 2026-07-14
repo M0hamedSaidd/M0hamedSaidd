@@ -30,7 +30,7 @@
           <li>📫 Reach me at: <b><a href="mailto:eng.mohamedsaidd@gmail.com">eng.mohamedsaidd@gmail.com</a></b></li>
         </ul>
       </td>
-      <td width="40%" align="center">
+      <td width="100%" align="center">
       </td>
     </tr>
   </table>
