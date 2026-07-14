@@ -87,7 +87,6 @@
 <h2 align="center">📈 GitHub Stats & Streak</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M0hamedSaidd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M0hamedSaidd&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
