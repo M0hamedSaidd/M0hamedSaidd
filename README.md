@@ -1,105 +1,51 @@
-import os
+<h1 align="center">Hi 👋, I'm Mohamed Said</h1>
+<h3 align="center">A passionate UI/UX Designer and Flutter Developer from Egypt 🇪🇬</h3>
 
-readme_content = """<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=250&section=header&text=Mohamed%20Said&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Bridging%20Design%20&%20Development&descAlignY=60&descSize=25&fontColor=ffffff" alt="Header Banner" width="100%" />
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=🎨+UI%2FUX+Designer;📱+Flutter+Developer;🚀+Creative+Problem+Solver;⚡+Building+Cross-Platform+Apps" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <h2>I seamlessly bridge the gap between design and development.</h2>
-  <h3>Passionate about crafting intuitive, user-centric digital experiences and translating pixel-perfect designs into responsive, high-performance mobile applications using Flutter and Dart.</h3>
-</div>
-
-<br/>
-
----
-
-### 👨‍💻 About Me & My Work
-
-<img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Developer Coding GIF" width="350" style="margin-left: 20px;" />
-
-<h4>🎓 <b>Education:</b> Pursuing a B.Sc. in Computer Science & Statistics at Alexandria University.</h4>
-
-<h4>🖌️ <b>Design:</b> Proficient in end-to-end design workflows (<b>Figma</b> & <b>Adobe Illustrator</b>).</h4>
-
-<h4>🚀 <b>Development:</b> Specialized in building robust cross-platform apps with <b>Flutter & Dart</b>.</h4>
-
-<h4>🤝 <b>Teamwork:</b> Experienced in collaborating seamlessly within multi-disciplinary tech teams.</h4>
-
-<h4>📫 <b>Contact:</b> <a href="mailto:eng.mohamedsaidd@gmail.com">eng.mohamedsaidd@gmail.com</a></h4>
-
-<br clear="both">
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,illustrator,flutter,dart,py,java,git,vscode&perline=8" alt="Skill Icons" />
-  </a>
-</div>
-
-<br/>
-
----
-
-### 🚀 Featured Projects
-
-<br>
-
-<h3>🍽️ <a href="https://github.com/M0hamedSaidd/Restaurant_System">Restaurant Management System</a></h3>
-<h4><i>An intuitive UI/UX for seamless food ordering and management, featuring robust state management and smooth navigation.</i></h4>
-
-<br>
-
-<h3>🎮 <a href="https://github.com/M0hamedSaidd/FlappyBird">Flappy Bird Game Clone</a></h3>
-<h4><i>Mobile game clone with engaging user interfaces, custom animations, collision detection, and dynamic UI rendering.</i></h4>
-
-<br>
-
-<h3>🚚 Logistics & Fleet Management App</h3>
-<h4><i>A comprehensive mobile app for managing shipping logistics and real-time fleet tracking via GPS hardware integration.</i></h4>
-
-<br>
-
-<h3>📚 Read Trade Hub</h3>
-<h4><i>A book-swapping platform built by translating iterative Figma wireframes into a pixel-perfect, responsive Flutter interface.</i></h4>
-
-<br>
-
----
-
-### 📈 GitHub Stats & Streak
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M0hamedSaidd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M0hamedSaidd&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <h3>Let's Connect 🤝</h3>
+<p align="center">
   <a href="https://linkedin.com/in/mohamed-said-256748371" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:eng.mohamedsaidd@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-"""
+  <a href="https://github.com/M0hamedSaidd" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-with open('README_Large_Projects.md', 'w', encoding='utf-8') as f:
-    f.write(readme_content)
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-print("README_Large_Projects.md")
+### 👨🏻‍💻 About Me
+
+- 🔭 I’m currently studying **Computer Science and Statistics at Alexandria University**.
+- 🌱 I’m currently focused on mastering **Flutter, Dart, and Advanced UI/UX Workflows**.
+- 👯 I’m looking to collaborate on **Open Source Mobile Applications**.
+- 🎨 In my free time, I design seamless digital experiences using **Figma & Illustrator**.
+- 💬 Ask me about **Mobile App Architecture, State Management (Provider/BLoC), and Pixel-perfect UI**.
+- 📫 How to reach me: **[eng.mohamedsaidd@gmail.com](mailto:eng.mohamedsaidd@gmail.com)**
+
+<br clear="both">
+
+### 🛠 Language and Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,figma,illustrator,python,java,git,github,vscode,androidstudio&perline=10" />
+  </a>
+</p>
+
+### 🚀 Top Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🍽️ **[Restaurant Management System](https://github.com/M0hamedSaidd/Restaurant_System)** | An intuitive UI/UX for seamless food ordering and management with robust state management. | Flutter, Dart |
+| 🎮 **[Flappy Bird Game Clone](https://github.com/M0hamedSaidd/FlappyBird)** | Mobile game clone with custom animations, collision detection, and dynamic UI rendering. | Flutter, Dart |
+| 🚚 **Logistics & Fleet App** | Real-time fleet tracking via GPS hardware integration for managing shipping logistics. | Flutter, APIs |
+| 📚 **Read Trade Hub** | Book-swapping platform built by translating iterative Figma wireframes into a pixel-perfect interface. | UI/UX, Flutter |
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M0hamedSaidd&show_icons=true&theme=radical&hide_border=true" alt="Mohamed's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M0hamedSaidd&theme=radical&hide_border=true" alt="Mohamed's GitHub Streak" width="48%" />
+</p>
