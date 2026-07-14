@@ -34,19 +34,27 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-</div>
+### Languages
+<br>
+
+`Python` • `Dart` • `Java`
+
+### Mobile Development
+<br>
+
+`Flutter` • `Dart` • `State Management (Provider/BLoC)` • `REST APIs`
+
+### UI/UX Design
+<br>
+
+`Figma` • `Adobe Illustrator` • `Wireframing` • `Prototyping`
+
+### Development Tools
+<br>
+
+`Git` • `GitHub` • `Docker` • `VS Code` • `Android Studio`
 
 <br/>
 
@@ -79,6 +87,7 @@
 <h2 align="center">📈 GitHub Stats & Streak</h2>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M0hamedSaidd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M0hamedSaidd&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
