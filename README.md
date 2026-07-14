@@ -84,10 +84,9 @@
 
 ---
 
-<h2 align="center">📈 GitHub Stats & Streak</h2>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M0hamedSaidd&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <h3>Thanks for visiting!</h3>
+  <img src="https://img.shields.io/badge/Profile%20Views-69-blue" alt="Profile Views" />
 </div>
 
 <br/>
