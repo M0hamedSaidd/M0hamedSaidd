@@ -1,4 +1,6 @@
-<div align="center">
+import os
+
+readme_content = """<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=250&section=header&text=Mohamed%20Said&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Bridging%20Design%20&%20Development&descAlignY=60&descSize=25&fontColor=ffffff" alt="Header Banner" width="100%" />
 </div>
 
@@ -95,3 +97,9 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+"""
+
+with open('README_Large_Projects.md', 'w', encoding='utf-8') as f:
+    f.write(readme_content)
+
+print("README_Large_Projects.md")
