@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <p>I seamlessly bridge the gap between design and development. Passionate about crafting intuitive, user-centric digital experiences and translating pixel-perfect designs into responsive, high-performance mobile applications using Flutter and Dart.</p>
+  <h2>I seamlessly bridge the gap between design and development. <br>Passionate about crafting intuitive, user-centric digital experiences and translating pixel-perfect designs into responsive, high-performance mobile applications using Flutter and Dart.</h2>
 </div>
 
 ---
@@ -21,16 +21,15 @@
 <div align="center">
   <table>
     <tr>
-      <td width="60%">
-        <ul>
-          <li>🎓 Pursuing a <b>B.Sc. in Computer Science and Statistics</b> at Alexandria University.</li>
-          <li>🖌️ Proficient in end-to-end design workflows: from wireframing (<b>Figma</b>) to vector graphics (<b>Illustrator</b>).</li>
-          <li>🚀 Specialized in building cross-platform apps with <b>Flutter & Dart</b>.</li>
-          <li>🤝 Experienced in collaborating within multi-disciplinary tech teams (UI/UX, Backend, Security, Data).</li>
-          <li>📫 Reach me at: <b><a href="mailto:eng.mohamedsaidd@gmail.com">eng.mohamedsaidd@gmail.com</a></b></li>
-        </ul>
+      <td width="60%" valign="middle">
+        <h4>🎓 <b>Education:</b> Pursuing a B.Sc. in Computer Science and Statistics at Alexandria University.</h4>
+        <h4>🖌️ <b>Design:</b> Proficient in end-to-end design workflows (<b>Figma</b> & <b>Adobe Illustrator</b>).</h4>
+        <h4>🚀 <b>Development:</b> Specialized in building cross-platform apps with <b>Flutter & Dart</b>.</h4>
+        <h4>🤝 <b>Teamwork:</b> Experienced in collaborating within multi-disciplinary tech teams.</h4>
+        <h4>📫 <b>Contact:</b> <a href="mailto:eng.mohamedsaidd@gmail.com">eng.mohamedsaidd@gmail.com</a></h4>
       </td>
-      <td width="100%" align="center">
+      <td width="40%" align="center" valign="middle">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Developer Coding GIF" width="95%" />
       </td>
     </tr>
   </table>
