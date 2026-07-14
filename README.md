@@ -11,27 +11,33 @@
 <br/>
 
 <div align="center">
-  <h3>I seamlessly bridge the gap between design and development.<br>
-  <i>Passionate about crafting intuitive, user-centric digital experiences and translating pixel-perfect designs into responsive, high-performance mobile applications using Flutter and Dart.</i></h3>
+  <h2>I seamlessly bridge the gap between design and development.</h2>
+  <h3>Passionate about crafting intuitive, user-centric digital experiences and translating pixel-perfect designs into responsive, high-performance mobile applications using Flutter and Dart.</h3>
 </div>
 
 <br/>
 
-<img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Developer Coding GIF" width="280" />
+---
 
-## 👨‍💻 About Me & My Work
+### 👨‍💻 About Me & My Work
 
-> 🎓 **Education:** Pursuing a B.Sc. in Computer Science & Statistics at Alexandria University.  
-> 🖌️ **Design:** Proficient in end-to-end design workflows (**Figma** & **Adobe Illustrator**).  
-> 🚀 **Development:** Specialized in building robust cross-platform apps with **Flutter & Dart**.  
-> 🤝 **Teamwork:** Experienced in collaborating seamlessly within multi-disciplinary tech teams.  
-> 📫 **Contact:** [eng.mohamedsaidd@gmail.com](mailto:eng.mohamedsaidd@gmail.com)
+<img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Developer Coding GIF" width="350" style="margin-left: 20px;" />
+
+<h4>🎓 <b>Education:</b> Pursuing a B.Sc. in Computer Science & Statistics at Alexandria University.</h4>
+
+<h4>🖌️ <b>Design:</b> Proficient in end-to-end design workflows (<b>Figma</b> & <b>Adobe Illustrator</b>).</h4>
+
+<h4>🚀 <b>Development:</b> Specialized in building robust cross-platform apps with <b>Flutter & Dart</b>.</h4>
+
+<h4>🤝 <b>Teamwork:</b> Experienced in collaborating seamlessly within multi-disciplinary tech teams.</h4>
+
+<h4>📫 <b>Contact:</b> <a href="mailto:eng.mohamedsaidd@gmail.com">eng.mohamedsaidd@gmail.com</a></h4>
 
 <br clear="both">
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -43,36 +49,33 @@
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+### 🚀 Featured Projects
 
-<table align="center" width="100%" style="border: none;">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍽️ <a href="https://github.com/M0hamedSaidd/Restaurant_System">Restaurant Management</a></h3>
-      <p><i>An intuitive UI/UX for seamless food ordering and management, featuring robust state management and smooth navigation.</i></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/M0hamedSaidd/FlappyBird">Flappy Bird Clone</a></h3>
-      <p><i>Mobile game clone with engaging user interfaces, custom animations, collision detection, and dynamic UI rendering.</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚚 Logistics & Fleet App</h3>
-      <p><i>A comprehensive mobile app for managing shipping logistics and real-time fleet tracking via GPS hardware integration.</i></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 Read Trade Hub</h3>
-      <p><i>A book-swapping platform built by translating iterative Figma wireframes into a pixel-perfect, responsive Flutter interface.</i></p>
-    </td>
-  </tr>
-</table>
+<br>
 
-<br/>
+<h3>🍽️ <a href="https://github.com/M0hamedSaidd/Restaurant_System">Restaurant Management System</a></h3>
+<h4><i>An intuitive UI/UX for seamless food ordering and management, featuring robust state management and smooth navigation.</i></h4>
+
+<br>
+
+<h3>🎮 <a href="https://github.com/M0hamedSaidd/FlappyBird">Flappy Bird Game Clone</a></h3>
+<h4><i>Mobile game clone with engaging user interfaces, custom animations, collision detection, and dynamic UI rendering.</i></h4>
+
+<br>
+
+<h3>🚚 Logistics & Fleet Management App</h3>
+<h4><i>A comprehensive mobile app for managing shipping logistics and real-time fleet tracking via GPS hardware integration.</i></h4>
+
+<br>
+
+<h3>📚 Read Trade Hub</h3>
+<h4><i>A book-swapping platform built by translating iterative Figma wireframes into a pixel-perfect, responsive Flutter interface.</i></h4>
+
+<br>
 
 ---
 
-<h2 align="center">📈 GitHub Stats & Streak</h2>
+### 📈 GitHub Stats & Streak
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M0hamedSaidd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
@@ -83,9 +86,8 @@
 
 ---
 
-<h2 align="center">🤝 Let's Connect</h2>
-
 <div align="center">
+  <h3>Let's Connect 🤝</h3>
   <a href="https://linkedin.com/in/mohamed-said-256748371" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
